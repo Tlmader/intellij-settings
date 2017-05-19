@@ -1,6 +1,5 @@
- /**
- * Description.
+/**
+ * TODO: Add description.
  *
- * @author tlmader.dev@gmail.com
- * @since ${DATE}
+ * @author Ted Mader
  */
