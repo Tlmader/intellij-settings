@@ -1,27 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/Dev/cicd/job-dsl-gradle" value="1488403528000" />
-            <entry key="$USER_HOME$/Dev/cicd/job-dsl-gradle-example" value="1488403401000" />
-            <entry key="$USER_HOME$/Dev/cicd/job-dsl-plugin" value="2976361646000" />
-            <entry key="$USER_HOME$/Dev/cicd/nola-guilds-dsl-lib" value="1488576475000" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
       <component name="ProjectRootManager" version="2" default="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -118,7 +102,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.19944212" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>

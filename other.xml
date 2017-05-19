@@ -1,11 +1,12 @@
 <application>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="7.6.0" last-modified="1487964574000" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.9.4" last-modified="1483671630000" />
     </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/7.6.0/bin/node" />
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
   </component>
 </application>
